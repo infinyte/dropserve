@@ -1,0 +1,22 @@
+# Build output
+dropserve
+dropserve.exe
+dist/
+
+# Go module cache
+vendor/
+
+# Test binary artifacts
+*.test
+*.out
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
